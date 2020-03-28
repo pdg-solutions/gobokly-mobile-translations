@@ -4,4 +4,4 @@ This repository contains all the translations used by the GoBokly Mobile applica
 
 The language used by the application is set at the environment configuration file.
 
-Use the [official WordPress locale codes](https://translate.wordpress.org/) to name the translation files.
+Use the first two letters of the [official WordPress locale codes](https://translate.wordpress.org/) to name the translation files.
