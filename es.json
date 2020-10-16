@@ -133,6 +133,8 @@
   "closeAccountLabel": "Cerrar Cuenta",
   "closeAccountMessage": "Esta acción no se puede revertir. Toda la información relacionada a su cuenta será eliminada permanentemente",
   "closeAccountFieldMessage": "Por favor, coloque el Usuario o Correo Electrónico y haga clic en Confirmar para cerrar su cuenta  ",
+  "closeAccountErrorMessage": "Nombre de usuario o email inválido",
   "closeAccountSuccessMessage": "Su cuenta ha sido cerrada correctamente.",
-  "confirmLabel": "Confirmar"
+  "confirmLabel": "Confirmar",
+  "missingLocationMessage": "Por favor, seleccione una ubicación"
 }

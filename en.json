@@ -133,6 +133,8 @@
   "closeAccountLabel": "Close Account",
   "closeAccountMessage": "This action can't be undone. All information about your account will be removed permanently.",
   "closeAccountFieldMessage": "Please set your Username or Email and click on the Confirm button to close your account.",
+  "closeAccountErrorMessage": "Wrong username or email",
   "closeAccountSuccessMessage": "Your account has been closed successfully",
-  "confirmLabel": "Confirm"
+  "confirmLabel": "Confirm",
+  "missingLocationMessage": "Please select a location"
 }
