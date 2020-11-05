@@ -136,5 +136,13 @@
   "closeAccountErrorMessage": "Wrong username or email",
   "closeAccountSuccessMessage": "Your account has been closed successfully",
   "confirmLabel": "Confirm",
-  "missingLocationMessage": "Please select a location"
+  "missingLocationMessage": "Please select a location",
+  "customFieldsTitleLabel": "Details",
+  "loadingServiceExtrasLabel": "Loading service extras...",
+  "changePasswordLabel": "Change Password",
+  "changePasswordTitleLabel": "Change Password",
+  "currentPasswordFieldLabel": "Current password",
+  "newPasswordFieldLabel": "New password",
+  "changePasswordSuccessMessage": "Your password has been updated successfully.",
+  "changePasswordErrorMessage": "An error has ocurred trying to update the password. Try again later."
 }

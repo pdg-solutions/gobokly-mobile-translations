@@ -136,5 +136,13 @@
   "closeAccountErrorMessage": "Nombre de usuario o email inválido",
   "closeAccountSuccessMessage": "Su cuenta ha sido cerrada correctamente.",
   "confirmLabel": "Confirmar",
-  "missingLocationMessage": "Por favor, seleccione una ubicación"
+  "missingLocationMessage": "Por favor, seleccione una ubicación",
+  "customFieldsTitleLabel": "Detalles",
+  "loadingServiceExtrasLabel": "Cargando servicios extras...",
+  "changePasswordLabel": "Cambiar Password",
+  "changePasswordTitleLabel": "Cambiar Password",
+  "currentPasswordFieldLabel": "Contraseña actual",
+  "newPasswordFieldLabel": "Nueva contraseña",
+  "changePasswordSuccessMessage": "Su contraseña ha sido actualizada satisfactoriamente.",
+  "changePasswordErrorMessage": "Ha ocurrido un error tratando de actualizar la contraseña. Intente más tarde."
 }
